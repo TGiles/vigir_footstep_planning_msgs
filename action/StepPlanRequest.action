@@ -6,5 +6,6 @@ vigir_footstep_planning_msgs/ErrorStatus status
 float32 final_eps
 float32 planning_time
 int32 number_of_states_expanded
+float32 total_path_cost
 ---
 vigir_footstep_planning_msgs/PlanningFeedback feedback
